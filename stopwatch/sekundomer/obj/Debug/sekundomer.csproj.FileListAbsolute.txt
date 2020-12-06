@@ -1,0 +1,10 @@
+C:\Users\Влад\source\repos\sekundomer\sekundomer\bin\Debug\sekundomer.exe.config
+C:\Users\Влад\source\repos\sekundomer\sekundomer\bin\Debug\sekundomer.exe
+C:\Users\Влад\source\repos\sekundomer\sekundomer\bin\Debug\sekundomer.pdb
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.Properties.Resources.resources
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.csproj.GenerateResource.cache
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.exe
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.pdb
+C:\Users\Влад\source\repos\sekundomer\sekundomer\obj\Debug\sekundomer.Form1.resources
